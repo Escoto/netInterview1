@@ -1,0 +1,5 @@
+testingApp/bin
+testingApp/obj
+testingApp/*.csproj.user
+.vs/testingApp/v15/*.suo
+
